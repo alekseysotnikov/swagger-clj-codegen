@@ -1,1 +1,3 @@
-# swagger-to-clj
+# swagger-clj-codegen
+
+status: in-development
